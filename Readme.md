@@ -4,7 +4,7 @@
 <!-- default badges end -->
 # Combo Box for ASP.NET Web Forms - How to get hidden column values on the client
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4970/)**
+**[[Run Online]](https://codecentral.devexpress.com/128540369/)**
 <!-- run online end -->
 
 This example demonstrates how to get values stored in a hidden column of the [Combo Box](http://docs.devexpress.devx/AspNet/11653/components/data-editors/combobox) control on the client.
