@@ -22,9 +22,9 @@
         </dx:ASPxComboBox>
         <dx:ASPxButton ID="ASPxButton1" runat="server" Text="UnitPrice value" AutoPostBack="false">
             <ClientSideEvents Click="function(s, e) {
-	        var v = cbox.cpHiddenColumnValues[cbox.GetSelectedIndex()];
-	        alert(v);
-	        }" />
+                var v = cbox.cpHiddenColumnValues[cbox.GetSelectedIndex()];
+                alert(v);
+                }" />
         </dx:ASPxButton>
         <asp:SqlDataSource ID="SqlDataSource1" runat="server"
             ConnectionString="<%$ ConnectionStrings:NorthwindConnectionString %>"
