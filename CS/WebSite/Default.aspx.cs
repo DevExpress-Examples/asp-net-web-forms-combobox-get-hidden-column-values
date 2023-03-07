@@ -14,7 +14,7 @@ public partial class _Default : System.Web.UI.Page
     {
         ArrayList list = new ArrayList();
         foreach (ListEditItem item in ASPxComboBox1.Items)
-            list.Add(item.GetValue("UnitPrice"));
+            list.Add(item.GetFieldValue("UnitPrice"));
         e.Properties["cpHiddenColumnValues"] = list;
     }
 }
