@@ -6,7 +6,7 @@
 <!-- default badges end -->
 # Combo Box for ASP.NET Web Forms - How to get hidden column values on the client
 
-This example demonstrates how to get values stored in a hidden column of the [Combo Box](http://docs.devexpress.devx/AspNet/11653/components/data-editors/combobox) control on the client.
+This example demonstrates how to get values stored in a hidden column of the [Combo Box](http://docs.devexpress.com/AspNet/11653/components/data-editors/combobox) control on the client.
 
 The Combo Box control's server-side [CustomJSProperties](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxEditBase.CustomJSProperties) event allows you to declare temporary client properties. In the event handler, create a temporary property and set it to a list of values stored in a hidden column. Use this property on the client to get column values.
 
@@ -20,7 +20,7 @@ The Combo Box control's server-side [CustomJSProperties](https://docs.devexpress
 
 ## Documentation
 
-* [Multi-Column Mode](http://docs.devexpress.devx/AspNet/DevExpress.Web.ASPxComboBox#multi-column-mode)
+* [Multi-Column Mode](http://docs.devexpress.com/AspNet/DevExpress.Web.ASPxComboBox#multi-column-mode)
 * [Passing Values Between Client and Server Sides](https://docs.devexpress.com/AspNet/11816/common-concepts/client-side-functionality/passing-values-between-client-and-server-sides)
 
 ## More Examples
